@@ -9,4 +9,4 @@ Filemanagement.py enthält Funktionen für den Datenimport.
 
 Xy.cpp enthält den Quellcode für den XY-Algorithmus. 
 
-MonteCarloLattice_new.cpp enthält diverse Algorithmen für Ising- und Potts- Modelle, u.a. den verwendeten Wollf-Cluster-Algorithmus. (sehr unübersichtlich)
+MonteCarloLattice_new.cpp enthält diverse Algorithmen für Ising- und Potts- Modelle, u.a. den verwendeten Wollf-Cluster-Algorithmus. Der Code ist sehr unübersichtlich, wurde aber getestet und erzeugt plausible Daten.
